@@ -71,4 +71,4 @@ The loyalty program utilizes a pyramid structure where value concentration incre
 * **Monitor & Optimize:** Build Cohort Dashboards to track Retention, CLV, and Flights at 3, 12, and 24-month intervals. Schedule tier-based campaigns around established seasonal peaks (June-July, December).
 
 ---
-*Project Date: October 31, 2025* | *Author: Pham Tien Phap / TheHauData*
+*Project Date: October 31, 2025* | *Author: Pham Tien Phap
